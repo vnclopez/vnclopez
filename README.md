@@ -16,6 +16,11 @@ Sou um programador full stack júnior em constante aprendizado.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+---
+
+### **GitHub Analytics**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnclopez&layout=compact&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnclopez&show_icons=true&theme=tokyonight)
